@@ -1,36 +1,59 @@
 # Hi, I'm Umut.
 
-**Research, communication and human-centred digital experiences.**  
-Copenhagen, Denmark
+I work across research, communication and digital product development in Copenhagen. I'm interested in how people understand information and how that understanding shapes the products they use and the choices they make.
 
-I'm curious about how people make sense of information, work together and navigate digital experiences. I like asking clear questions, listening carefully and turning complex material into something people can understand and use.
+Currently, I co-develop **GreenChoice.AI at the University of Copenhagen**. My background combines an MA in Cognition and Communication with applied work in stakeholder communication, research and project coordination.
 
-[Explore my portfolio ↗](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site) · [ORCID](https://orcid.org/0009-0008-3845-3108) · [Email](mailto:aukarademir@gmail.com)
+[Portfolio](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site) · [Portfolio source](https://github.com/aukarademir/portfolio) · [ORCID](https://orcid.org/0009-0008-3845-3108) · [Email](mailto:aukarademir@gmail.com)
 
 ## Selected work
 
-### AI shopping conversations — master's thesis
-*Comparing Sustainability Communication Strategies in AI Shopping Conversations*  
-A 98-participant mixed-method study at the University of Copenhagen, completed in 2026. It explores three communication approaches to sustainability in AI shopping conversations. The study did not find a significant overall difference between conditions.
+### GreenChoice.AI
+**Research and product development · University of Copenhagen · October 2026–present**
 
-**Focus:** research design, mixed methods, sustainability communication.
+A proof of concept for a shopping chatbot that helps people compare products using environmental and social evidence linked to its sources.
 
-### RealLab — university–company collaboration
-Research with project lead Peren Özturan at Copenhagen Business School. As a student researcher, I supported interview recruitment, research materials, transcription and follow-up, analysis and the presentation of insights. The study covered 14 participants across 15 interviews; preliminary analysis explored the coordination behind effective collaboration.
+My work covers the chatbot and website, deployment, analytics and formative user testing. I helped revise the proposal and delivered the pitch to the UCPH Lighthouse committee. The project received **DKK 150,000 in proof-of-concept funding**.
 
-**Focus:** interviews, research synthesis, stakeholder needs.
+The project is still developing. Evidence quality and consumer value are questions we plan to test, rather than established product outcomes.
 
-### Responsible product search — research with Frans van der Sluis
-*From Retrieval to Responsible Choice: Auditing AI Assistants for Responsible Product Search*  
-A short paper submitted to CHIIR 2027. The work examines how AI assistants support responsible product search and decision-making. Submission is not acceptance or publication.
+### AI shopping conversations
+**Master's thesis · MA Cognition and Communication · 2026**
 
-**Focus:** interaction research, AI evaluation, evidence and explanation.
+*Comparing Sustainability Communication Strategies in AI Shopping Conversations*
 
-## What comes next
+I designed a 98-participant mixed-method study of three sustainability communication approaches in AI shopping conversations. The work combines conversational design with quantitative analysis and interpretation of participant responses. The study did not find a significant overall difference between conditions.
 
-I'm building this collection of work and planning applied learning in analytics, Power BI and process improvement. Completed projects will be added with a clear question, a reproducible method where possible, and a concise account of the result.
+**Methods:** experimental research, mixed methods, sustainability communication.
 
----
+### RealLab
+**Research and coordination · Copenhagen Business School**
 
-Open to opportunities in communication, marketing and project coordination.  
-Contact: **aukarademir@gmail.com**
+Working with project lead Peren Özturan, I supported interview recruitment, preparation, transcription and participant follow-up. I analysed research material and presented findings to support the development of a digital collaboration platform for students, academics and companies.
+
+The project received a **DKK 50,000 CSE Discovery Grant**. The grant belongs to the project, not to me individually.
+
+**Methods:** interviews, qualitative and quantitative analysis, research synthesis, stakeholder coordination.
+
+### Responsible product search
+**Research with Frans van der Sluis**
+
+*From Retrieval to Responsible Choice: Auditing AI Assistants for Responsible Product Search*
+
+Research into how AI assistants support responsible product search and decision-making. A short paper has been submitted to CHIIR 2027. Submission does not imply acceptance or publication.
+
+**Focus:** AI evaluation, information quality, evidence and explanation.
+
+## How I work
+
+I start by making the question clear, then connect research with something people can use: a conversation, a website, a presentation or a practical next step. I enjoy following a project through its details and using feedback to improve it.
+
+My toolkit includes **Python, R, SQL, Excel and PowerPoint**, alongside **Canva, Miro, SharePoint and Dotdigital**. I use these for research, analysis, communication and product work. The public repositories here are a selected portfolio, not a complete archive of my work.
+
+## Public work and access
+
+The [portfolio repository](https://github.com/aukarademir/portfolio) contains the website's HTML and CSS. Research datasets, participant information, internal employer material and private project code are not part of this public collection.
+
+I'm interested in early-career opportunities in **marketing, communications and project coordination**, especially where research and digital products meet.
+
+**Contact:** [aukarademir@gmail.com](mailto:aukarademir@gmail.com)
