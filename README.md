@@ -57,3 +57,13 @@ The [portfolio repository](https://github.com/aukarademir/portfolio) contains th
 I'm interested in early-career opportunities in **marketing, communications and project coordination**, especially where research and digital products meet.
 
 **Contact:** [aukarademir@gmail.com](mailto:aukarademir@gmail.com)
+
+## Selected CBS coursework
+
+Short, visual case studies showing how I connect research with practical recommendations:
+
+- [Too Good To Go: customer experience audit](https://github.com/aukarademir/portfolio/blob/main/cases/too-good-to-go.md)
+- [Arla F15: employer branding and inclusion](https://github.com/aukarademir/portfolio/blob/main/cases/arla.md)
+- [Novo Nordisk: strategy implementation](https://github.com/aukarademir/portfolio/blob/main/cases/novo-strategy.md)
+
+These are academic case studies; proposed outcomes are distinguished from tested results.
