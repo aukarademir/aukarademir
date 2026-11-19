@@ -1,4 +1,4 @@
-# Umut Karademir
+# Altug Umut Karademir
 
 Research, communication and digital product development in Copenhagen.
 
