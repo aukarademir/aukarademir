@@ -1,69 +1,59 @@
-# Hi, I'm Umut.
+# Umut Karademir
 
-I work across research, communication and digital product development in Copenhagen. I'm interested in how people understand information and how that understanding shapes the products they use and the choices they make.
+Research, communication and digital product development in Copenhagen.
 
-Currently, I co-develop **GreenChoice.AI at the University of Copenhagen**. My background combines an MA in Cognition and Communication with applied work in stakeholder communication, research and project coordination.
+I’m interested in how people understand information, experience services and work together. I enjoy turning a research question into something people can understand and use.
 
-[Portfolio](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site) · [Portfolio source](https://github.com/aukarademir/portfolio) · [ORCID](https://orcid.org/0009-0008-3845-3108) · [Email](mailto:aukarademir@gmail.com)
+[Portfolio](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/aukarademir/) · [ORCID](https://orcid.org/0009-0008-3845-3108) · [Email](mailto:aukarademir@gmail.com)
 
-## Selected work
+## Research and product work
 
-### GreenChoice.AI
-**Research and product development · University of Copenhagen · October 2026–present**
+**GreenChoice.AI — University of Copenhagen**  
+I co-develop a shopping chatbot and website with Dr. Frans van der Sluis, covering deployment, analytics and formative user testing. I helped revise the proposal and delivered the UCPH Lighthouse pitch. The project received DKK 150,000 in proof-of-concept funding.
 
-A proof of concept for a shopping chatbot that helps people compare products using environmental and social evidence linked to its sources.
+**RealLab — Copenhagen Business School**  
+Interview research, analysis and coordination supporting a collaboration platform for students, academics and companies, with project lead Peren Özturan. The project received a DKK 50,000 CSE Discovery Grant.
 
-My work covers the chatbot and website, deployment, analytics and formative user testing. I helped revise the proposal and delivered the pitch to the UCPH Lighthouse committee. The project received **DKK 150,000 in proof-of-concept funding**.
+## Academic research
 
-The project is still developing. Evidence quality and consumer value are questions we plan to test, rather than established product outcomes.
+**AI shopping conversations**  
+My MA thesis compares three sustainability communication approaches through experimental design and mixed-method analysis.
 
-### AI shopping conversations
-**Master's thesis · MA Cognition and Communication · 2026**
+**Responsible product search**  
+Co-authored research with Frans van der Sluis: *From Retrieval to Responsible Choice: Auditing AI Assistants for Responsible Product Search*. Short paper submitted to CHIIR 2027.
 
-*Comparing Sustainability Communication Strategies in AI Shopping Conversations*
+## Business case studies
 
-I designed a 98-participant mixed-method study of three sustainability communication approaches in AI shopping conversations. The work combines conversational design with quantitative analysis and interpretation of participant responses. The study did not find a significant overall difference between conditions.
+### [Too Good To Go](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/too-good-to-go.html)
 
-**Methods:** experimental research, mixed methods, sustainability communication.
+Customer experience audit. Customer reviews reveal where the Surprise Bag experience falls short. Journey mapping and PERFA coding connect the findings to two proposed service concepts.
 
-### RealLab
-**Research and coordination · Copenhagen Business School**
+[![Too Good To Go](https://raw.githubusercontent.com/aukarademir/portfolio/main/dist/assets/too-good-to-go-01.jpg)](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/too-good-to-go.html)
 
-Working with project lead Peren Özturan, I supported interview recruitment, preparation, transcription and participant follow-up. I analysed research material and presented findings to support the development of a digital collaboration platform for students, academics and companies.
+[16-slide presentation](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/too-good-to-go.html) · [PDF](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/assets/TGTG_Customer_Experience_Case_Study.pdf) · [PowerPoint](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/assets/TGTG_Customer_Experience_Case_Study.pptx)
 
-The project received a **DKK 50,000 CSE Discovery Grant**. The grant belongs to the project, not to me individually.
+### [Arla F15](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/arla.html)
 
-**Methods:** interviews, qualitative and quantitative analysis, research synthesis, stakeholder coordination.
+Employer branding and inclusion. A qualitative study of how corporate identity, global career pathways and everyday belonging shape the employer story. The findings inform a proposed change programme.
 
-### Responsible product search
-**Research with Frans van der Sluis**
+[![Arla F15](https://raw.githubusercontent.com/aukarademir/portfolio/main/dist/assets/arla-01.jpg)](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/arla.html)
 
-*From Retrieval to Responsible Choice: Auditing AI Assistants for Responsible Product Search*
+[14-slide presentation](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/arla.html) · [PDF](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/assets/Arla_F15_Case_Study.pdf) · [PowerPoint](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/assets/Arla_F15_Case_Study.pptx)
 
-Research into how AI assistants support responsible product search and decision-making. A short paper has been submitted to CHIIR 2027. Submission does not imply acceptance or publication.
+### [Novo Nordisk](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/novo-strategy.html)
 
-**Focus:** AI evaluation, information quality, evidence and explanation.
+Strategy implementation. An analysis of how authority, information and operating routines shape expansion under uncertainty. Public evidence informs a practical decision and review framework.
 
-## How I work
+[![Novo Nordisk](https://raw.githubusercontent.com/aukarademir/portfolio/main/dist/assets/novo-strategy-01.jpg)](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/novo-strategy.html)
 
-I start by making the question clear, then connect research with something people can use: a conversation, a website, a presentation or a practical next step. I enjoy following a project through its details and using feedback to improve it.
+[16-slide presentation](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/novo-strategy.html) · [PDF](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/assets/Novo_Nordisk_Strategy_Case_Study.pdf) · [PowerPoint](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/assets/Novo_Nordisk_Strategy_Case_Study.pptx)
 
-My toolkit includes **Python, R, SQL, Excel and PowerPoint**, alongside **Canva, Miro, SharePoint and Dotdigital**. I use these for research, analysis, communication and product work. The public repositories here are a selected portfolio, not a complete archive of my work.
+## Professional experience
 
-## Public work and access
+Research and product development at the University of Copenhagen; marketing research and coordination at CBS; communications and change management at Novo Nordisk; project coordination at TNC Group / SCA Social.
 
-The [portfolio repository](https://github.com/aukarademir/portfolio) contains the website's HTML and CSS. Research datasets, participant information, internal employer material and private project code are not part of this public collection.
+## Research and teaching foundations
 
-I'm interested in early-career opportunities in **marketing, communications and project coordination**, especially where research and digital products meet.
+Research assistant roles in Bilkent’s Social and Developmental Psychology Labs. Tutor for CS125, Introduction to Data Analysis for Social Sciences, covering Python, NumPy, pandas and Matplotlib.
 
-**Contact:** [aukarademir@gmail.com](mailto:aukarademir@gmail.com)
-
-## Selected CBS coursework
-
-Short, visual case studies showing how I connect research with practical recommendations:
-
-- [Too Good To Go: customer experience audit](https://github.com/aukarademir/portfolio/blob/main/cases/too-good-to-go.md)
-- [Arla F15: employer branding and inclusion](https://github.com/aukarademir/portfolio/blob/main/cases/arla.md)
-- [Novo Nordisk: strategy implementation](https://github.com/aukarademir/portfolio/blob/main/cases/novo-strategy.md)
-
-These are academic case studies; proposed outcomes are distinguished from tested results.
+**Tools:** Python, R, SQL, Excel, PowerPoint, Canva, Miro, SharePoint and Dotdigital.
